@@ -1,4 +1,4 @@
-#Selction Sort
+#Selection Sort
 
 
 def selection_sort(A):
